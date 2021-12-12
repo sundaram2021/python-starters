@@ -3,4 +3,4 @@ def word(name):
         return name[:3].capitalize() + name[3:].capitalize()
     else:
         'name is too short'
-print(word('sundaram'))
+print(word('adarsh'))
