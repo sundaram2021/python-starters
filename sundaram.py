@@ -1,3 +1,5 @@
+#hello
+
 x = open("text1.txt", 'r+')
 content = x.readlines()
 x.write("something else")
