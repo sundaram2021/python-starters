@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sundaram2021
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development and Python
-- 💞️ I’m looking to collaborate on Topics like HTML and CSS and JavaScript
+- 💞️ I’m looking to collaborate on Topics like Full Stack Devlopment and problem solving on DSA.
 - 📫 How to reach me /@im_jhasundaram
 
 <!---
